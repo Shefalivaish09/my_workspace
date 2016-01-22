@@ -433,6 +433,7 @@ header li a:hover{
 }
 
 .content p{
+  text-align: justify;
   font-family: monospace;
   color:#666666;
   font-size:18px;
@@ -475,6 +476,9 @@ header li a:hover{
   padding-bottom:30px;
 }
 
+/*
+  updating grid_12
+*/
 .container_12 .grid_12 {
   width: 960px;
 }
