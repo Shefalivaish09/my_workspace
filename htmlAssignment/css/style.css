@@ -135,6 +135,7 @@ textarea{
 }
 
 .content1{
+  font-family: 'Alegreya', serif;
   background: white;
   padding:10px 0px;
   text-align: justify;
@@ -253,31 +254,31 @@ article h2{
   font-family:serif;
 }
 
-.main{
+main{
   color: black;
   background: white;
 }
 
-.main img{
+main img{
   height:auto;
   width: 270px;
 }
 
-.main section{
+main section{
   padding:25px;
  }
 
-.main p{
+main p{
   text-align: left;
   font-family: monospace;
   color:#666666;
   font-size:18px;
 }
 
-.main a{
+main a{
     color:#003333;
 }
 
-.main a:hover{
+main a:hover{
   color:#33ffff;
 }
